@@ -14,8 +14,8 @@ Contribuindo com projetos na area de educação, abaixo detalho alguns deles:
   - Página no instagram voltada para o ensino de matemática, oferecendo cursos de curta duração, já realizamos: curso de matemática básica; matemática para química e matemática para o ENEM que está em andamento. Faço parte da equipe que elabora posts para página e sou o responsavel pela manutenção do [site](http://annway.github.io/) em arvore de links do projeto.
 
 ## Me conheça melhor
-- Twitter: https://twitter.com/mthsjonatha
 - Instagram: https://www.instagram.com/math_jonatha/
+- Twitter: https://twitter.com/mthsjonatha
 - Site pessoal: http://mthsjonatha.github.io/
 
 
