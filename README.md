@@ -1,5 +1,5 @@
 # Matheus Jonatha
-Hi, I'm Kat (she/her)—a senior product designer at GitHub working on [Sponsors](https://github.com/sponsors) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Oakland, CA and am an East Bay native. 🙌 I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist. 💕
+Hi, I'm Kat (she/her)—a senior product designer at GitHub working on [Sponsors](https://github.com/sponsors) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Oakland, CA and am an East Bay native. I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist.
 
 ## Minhas paixões
 💖 Matemática<br>
@@ -9,7 +9,7 @@ Hi, I'm Kat (she/her)—a senior product designer at GitHub working on [Sponsors
 🚀 Elevate the underrepresented
 
 ## How I work
-My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
+My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain.
 
 ## Me conheça melhor
 - Twitter: https://twitter.com/mthsjonatha
