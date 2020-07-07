@@ -8,7 +8,7 @@ Oi, eu sou Matheus professor de matemática em formação que não consegue larg
 💙 Cubo Mágico<br>
 
 ## O que estou fazendo
-Contribuindo com projetos na area de educação, abaixo detalho alguns deles:
+Contribuindo com projetos na area de educação, abaixo detalho alguns deles:<br>
 ✔ [Monitoria AnnWay](https://www.instagram.com/monitoriaannway/)<br>
   ◻ Página no instagram voltada para o ensino de matemática, oferecendo cursos de curta duração, já realizamos: curso de matemática básica; matemática para química e matemática para o ENEM que está em andamento. Faço parte da equipe que elabora posts para página e sou o responsavel pela manutenção do [site](http://annway.github.io/) em arvore de links do projeto.
 
