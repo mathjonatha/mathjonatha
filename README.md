@@ -11,7 +11,11 @@ Oi, eu sou Matheus, professor de matemática em formação que não consegue lar
 Contribuindo com projetos na area de educação, abaixo detalho alguns deles:
 - [Monitoria AnnWay](https://www.instagram.com/monitoriaannway/)
   - Página no instagram voltada para o ensino de matemática, oferecendo cursos de curta duração, já realizamos: curso de matemática básica; matemática para química e matemática para o ENEM, que está em andamento. Faço parte da equipe que elabora posts para página e sou o responsável pela manutenção do [site](http://annway.github.io/) em arvore de links do projeto.
-
+- [M∆Th Show Olympics](https://www.instagram.com/math_show_olympics.oficial/)
+  - Página no instagram voltada para olímpiadas, atuando com grupo de discussão no WhastApp e desafios semanais em diversas disciplinas. Atualmente sou um dos coordenadores, ajudando na elaboração de desafios e gravando videos com resoluções para o YouTube
+- [NUCASTIF](https://www.instagram.com/ifrn_nucastif/)
+  - Núcleo de astronomia do Instituto Federal, no momento está em pausa para encontrar um novo professor orientador, faço parte da equipe de pesquisa teorica e divulgação do projeto, bem como ministrar cursos com temas de astronomia e astrofísica
+  
 ## Alguns dos meus projetos
 - [Modelo de Lista de Exercícios](https://github.com/mthsjonatha/pibid_lista)
 - [Curso de LaTeX](https://github.com/mthsjonatha/aulaslatex)
