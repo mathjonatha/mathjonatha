@@ -26,3 +26,5 @@ Contribuindo com projetos na area de educação, abaixo detalho alguns deles:
 - Instagram: https://www.instagram.com/math_jonatha/
 - Twitter: https://twitter.com/mthsjonatha
 - Site pessoal: http://mthsjonatha.github.io/
+- Curriculo Resumo: https://mthsjonatha.github.io/assets/doc/cv-matheus.pdf
+- Curriculo Lattes:http://lattes.cnpq.br/7985002770159415
