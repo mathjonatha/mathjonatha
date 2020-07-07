@@ -15,7 +15,7 @@ Contribuindo com projetos na area de educação, abaixo detalho alguns deles:
 ## Me conheça melhor
 - Twitter: https://twitter.com/mthsjonatha
 - Instagram: https://www.instagram.com/math_jonatha/
-- Personal site: http://mthsjonatha.github.io/
+- Site pessoal: http://mthsjonatha.github.io/
 
 
 ## Oakland orgs to donate to #BLM
