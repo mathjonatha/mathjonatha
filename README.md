@@ -19,9 +19,9 @@ Contribuindo com projetos na area de educação, abaixo detalho alguns deles:
 - Site pessoal: http://mthsjonatha.github.io/
 
 
-## Oakland orgs to donate to #BLM
-- [People's Breakfast Oakland](https://www.hellablackpod.com/pbo)
-- [Black Earth Farms](https://www.blackearthfarms.com/)
+## Alguns dos meus projetos
+- [Modelo de Lista de Exercícios](https://github.com/mthsjonatha/pibid_lista)
+- [Livro de Matemática para o ENEM](https://github.com/mthsjonatha/livro-matematica-para-o-enem)
 - [Anti Police Terror Project](https://www.antipoliceterrorproject.org/)
 - [Ella Baker Center for Human Rights](https://ellabakercenter.org/)
 - [Color of Change](https://colorofchange.org/)
