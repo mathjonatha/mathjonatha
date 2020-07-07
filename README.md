@@ -2,6 +2,7 @@
 Oi, eu sou Matheus, professor de matemática em formação que não consegue largar a programação, procuro está sempre aprendendo e conhecendo ferramentas que ajudem nas minhas tarefas diarias, viciado em organização e procuro maneiras de está sendo produtivo mesmo nos piores dias.
 
 ## Minhas paixões
+======
 🖤 Matemática<br>
 💜 LaTeX<br>
 🤍 Programação<br>
