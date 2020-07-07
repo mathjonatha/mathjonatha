@@ -1,5 +1,5 @@
 # Matheus Jonatha
-Hi, I'm Kat (she/her)—a senior product designer at GitHub working on [Sponsors](https://github.com/sponsors) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Oakland, CA and am an East Bay native. I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist.
+Oi, eu sou Matheus professor de matemática em formação que não consegue largar a tecnologia, procuro está sempre aprendendo e conhecendo ferramentas que ajudem nas minhas tarefas diarias.
 
 ## Minhas paixões
 🖤 Matemática<br>
@@ -7,8 +7,10 @@ Hi, I'm Kat (she/her)—a senior product designer at GitHub working on [Sponsors
 💙 Cubo Mágico<br>
 🤍 UX Design<br>
 
-## How I work
-My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain.
+## O que estou fazendo
+Contribuindo com projetos na area de educação, abaixo detalho alguns deles:
+- [Monitoria AnnWay](https://www.instagram.com/monitoriaannway/)
+-- Página no instagram voltada para o ensino de matemática, oferecendo cursos de curta duração, já realizamos; curso de matemática básica, matemática para química e matemática para o ENEM.
 
 ## Me conheça melhor
 - Twitter: https://twitter.com/mthsjonatha
