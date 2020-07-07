@@ -3,7 +3,7 @@ Oi 🖐, eu sou Matheus, professor de matemática em formação que não consegu
 
 ## Minhas paixões
 🖤 Matemática<br>
-💜 LaTeX<br>
+💛 LaTeX<br>
 🤍 Programação<br>
 💙 Cubo Mágico<br>
 
