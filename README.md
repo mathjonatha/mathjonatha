@@ -19,9 +19,9 @@ Contribuindo com projetos na area de educação, abaixo detalho alguns deles:
   - Preparatório online com página no instagram, tem foco ajudar estudantes a se preperarem para exames, como ENEM e vestibulares. Faço parte da equipe de produção de conteúdo, elaborando o material de matemática.
   
 ## Alguns dos meus projetos 💻
-- [Modelo de Lista de Exercícios](https://github.com/mthsjonatha/pibid_lista)
+- [Modelo de Lista de Exercícios - LaTeX](https://github.com/mthsjonatha/pibid_lista)
 - [Curso de LaTeX](https://github.com/mthsjonatha/aulaslatex)
-- [Livro de Matemática Para o ENEM](https://github.com/mthsjonatha/livro-matematica-para-o-enem)
+- [Livro de Matemática Para o ENEM - LaTeX](https://github.com/mthsjonatha/livro-matematica-para-o-enem)
 - [Árvore de links - bio do instagram da Monitoria AnnWay](https://github.com/AnnWay/annway.github.io)
 
 ## Me conheça melhor 😁
