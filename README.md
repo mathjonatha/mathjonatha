@@ -3,9 +3,10 @@ Oi, eu sou Matheus professor de matemática em formação que não consegue larg
 
 ## Minhas paixões
 🖤 Matemática<br>
+🤍 LaTeX<br>
 💜 Programação<br>
 💙 Cubo Mágico<br>
-🤍 UX Design<br>
+
 
 ## O que estou fazendo
 Contribuindo com projetos na area de educação, abaixo detalho alguns deles:
