@@ -14,7 +14,6 @@ Contribuindo com projetos na area de educação, abaixo detalho alguns deles:
 
 ## Alguns dos meus projetos
 - [Modelo de Lista de Exercícios](https://github.com/mthsjonatha/pibid_lista)
-- [Livro de Matemática para o ENEM](https://github.com/mthsjonatha/livro-matematica-para-o-enem)
 - [Curso de LaTeX](https://github.com/mthsjonatha/aulaslatex)
 
 ## Me conheça melhor
