@@ -1,5 +1,5 @@
-# Matheus Jonatha
-Oi 🖐, eu sou Matheus, professor de matemática em formação que não consegue largar a programação, procuro está sempre aprendendo e conhecendo ferramentas que ajudem nas minhas tarefas diárias.
+# Sobre 
+Oi 🖐, me chamo Matheus Jonatha, professor de matemática em formação que não consegue largar a programação, procuro está sempre aprendendo e conhecendo ferramentas que ajudem nas minhas tarefas diárias.
 
 ## Minhas paixões
 🖤 Matemática<br>
