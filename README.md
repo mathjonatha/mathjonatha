@@ -1,4 +1,4 @@
-# Sobre 
+# Sobre mim
 Oi 🖐, me chamo Matheus Jonatha, professor de matemática em formação que não consegue largar a programação, procuro está sempre aprendendo e conhecendo ferramentas que ajudem nas minhas tarefas diárias.
 
 ## Minhas paixões
