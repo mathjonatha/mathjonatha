@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://mthsjonatha.github.io/">Matheus Jonatha</a>.<br> I'm a math teacher.<br><br> #mathematics, #python, #javascript, #vuejs</samp>
+  <samp>Hello there. I'm <a href="https://mathjonatha.github.io/">Matheus Jonatha</a>.<br> I'm a math teacher.<br><br> #mathematics, #python, #javascript, #vuejs</samp>
   <br>
   <br>
   <br>
